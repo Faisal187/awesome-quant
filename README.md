@@ -4,6 +4,8 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 [![](https://awesome.re/badge.svg)](https://awesome.re)
 
+🔎 **Browse the searchable site: [faisal187.github.io/awesome-quant](https://faisal187.github.io/awesome-quant/)**
+
 ## Contents
 
 - [Numerical Libraries & Data Structures](#numerical-libraries--data-structures)
